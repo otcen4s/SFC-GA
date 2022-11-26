@@ -1,0 +1,19 @@
+{
+  "csv_data_path": "./csv/cz.csv",
+  "n_rows": null,
+  "random_pick_dataset": false,
+  "save_path": "./animations/cz_tournament.html",
+  "choose_my_route": true,
+  "selected_places": [
+    "Prague",
+    "Brno",
+    "Liberec",
+    "Kladno",
+    "Most",
+    "Opava",
+    "Frýdek-Místek",
+    "Jihlava",
+    "Karviná",
+    "Teplice"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "csv_data_path": "./csv/world.csv",
+  "n_rows": 100,
+  "random_pick_dataset": false,
+  "save_path": "./animations/world_roulette.html",
+  "choose_my_route": true,
+  "selected_places": [
+    "Slovakia",
+    "Czech Republic",
+    "Austria",
+    "Egypt",
+    "Ethiopia",
+    "Brazil",
+    "Argentina",
+    "New Zealand",
+    "Russia",
+    "United States",
+    "Poland",
+    "Estonia",
+    "Brunei"
+  ]
+}

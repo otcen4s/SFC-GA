@@ -1,0 +1,17 @@
+{
+  "csv_data_path": "./csv/it.csv",
+  "n_rows": null,
+  "random_pick_dataset": false,
+  "save_path": "./animations/it_kbest.html",
+  "choose_my_route": true,
+  "selected_places": [
+    "Rome",
+    "Bari",
+    "Verona",
+    "Taranto",
+    "Perugia",
+    "Naples",
+    "Treviso",
+    "Imola"
+  ]
+}

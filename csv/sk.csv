@@ -1,0 +1,878 @@
+place,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Bratislava,48.1447,17.1128,Slovakia,SK,Bratislavský,primary,429564,429564
+Košice,48.7167,21.2500,Slovakia,SK,Košický,admin,238593,238593
+Petržalka,48.1333,17.1167,Slovakia,SK,Bratislavský,,103190,103190
+Prešov,49.0000,21.2333,Slovakia,SK,Prešovský,admin,88680,88680
+Žilina,49.2167,18.7333,Slovakia,SK,Žilinský,admin,82704,82704
+Banská Bystrica,48.7353,19.1453,Slovakia,SK,Banskobystrický,admin,78327,78327
+Nitra,48.3147,18.0875,Slovakia,SK,Nitriansky,admin,77374,77374
+Trnava,48.3777,17.5862,Slovakia,SK,Trnavský,admin,65382,65382
+Trenčín,48.8942,18.0406,Slovakia,SK,Trenčiansky,admin,55593,55593
+Martin,49.0636,18.9214,Slovakia,SK,Žilinský,minor,54978,54978
+Poprad,49.0500,20.3000,Slovakia,SK,Prešovský,minor,52037,52037
+Prievidza,48.7714,18.6242,Slovakia,SK,Nitriansky,minor,48134,48134
+Zvolen,48.5831,19.1331,Slovakia,SK,Banskobystrický,minor,42476,42476
+Považská Bystrica,49.1167,18.4500,Slovakia,SK,Nitriansky,minor,39837,39837
+Michalovce,48.7575,21.9183,Slovakia,SK,Košický,minor,39151,39151
+Nové Zámky,47.9831,18.1728,Slovakia,SK,Nitriansky,minor,38172,38172
+Spišská Nová Ves,48.9500,20.5667,Slovakia,SK,Košický,minor,37326,37326
+Komárno,47.7633,18.1283,Slovakia,SK,Nitriansky,,33927,33927
+Humenné,48.9306,21.9122,Slovakia,SK,Prešovský,minor,33441,33441
+Levice,48.2136,18.6069,Slovakia,SK,Nitriansky,minor,32735,32735
+Liptovský Mikuláš,49.0811,19.6181,Slovakia,SK,Žilinský,minor,32593,32593
+Bardejov,49.2950,21.2758,Slovakia,SK,Prešovský,minor,32587,32587
+Lučenec,48.3314,19.6708,Slovakia,SK,Banskobystrický,minor,27991,27991
+Piešťany,48.5833,17.8333,Slovakia,SK,Trnavský,minor,27336,27336
+Ružomberok,49.0786,19.3083,Slovakia,SK,Žilinský,minor,26854,26854
+Topoľčany,48.5500,18.1833,Slovakia,SK,Nitriansky,minor,25492,25492
+Trebišov,48.6333,21.7167,Slovakia,SK,Košický,minor,24587,24587
+Čadca,49.4386,18.7883,Slovakia,SK,Žilinský,minor,24315,24315
+Dubnica nad Váhom,48.9575,18.1658,Slovakia,SK,Nitriansky,,24068,24068
+Rimavská Sobota,48.3814,20.0200,Slovakia,SK,Banskobystrický,minor,24010,24010
+Pezinok,48.2667,17.2667,Slovakia,SK,Bratislavský,minor,22861,22861
+Partizánske,48.6333,18.3667,Slovakia,SK,Nitriansky,minor,22653,22653
+Dunajská Streda,47.9961,17.6147,Slovakia,SK,Trnavský,minor,22643,22643
+Vranov nad Topľou,48.8806,21.6731,Slovakia,SK,Prešovský,minor,22589,22589
+Šaľa,48.1500,17.8833,Slovakia,SK,Nitriansky,minor,22219,22219
+Hlohovec,48.4311,17.8031,Slovakia,SK,Trnavský,minor,21715,21715
+Brezno,48.8036,19.6381,Slovakia,SK,Banskobystrický,minor,21082,21082
+Senica,48.6806,17.3667,Slovakia,SK,Trnavský,minor,20342,20342
+Nové Mesto nad Váhom,48.7833,17.8333,Slovakia,SK,Nitriansky,minor,20066,20066
+Snina,48.9881,22.1567,Slovakia,SK,Prešovský,minor,19855,19855
+Senec,48.2189,17.3997,Slovakia,SK,Bratislavský,minor,19410,19410
+Rožňava,48.6586,20.5314,Slovakia,SK,Košický,minor,19190,19190
+Žiar nad Hronom,48.5919,18.8533,Slovakia,SK,Banskobystrický,minor,19188,19188
+Dolný Kubín,49.2117,19.2992,Slovakia,SK,Žilinský,minor,18905,18905
+Bánovce nad Bebravou,48.7186,18.2581,Slovakia,SK,Nitriansky,minor,18350,18350
+Púchov,49.1200,18.3306,Slovakia,SK,Nitriansky,minor,17810,17810
+Malacky,48.4381,17.0236,Slovakia,SK,Bratislavský,minor,17430,17430
+Handlová,48.7272,18.7619,Slovakia,SK,Nitriansky,,17119,17119
+Kežmarok,49.1383,20.4292,Slovakia,SK,Prešovský,minor,16481,16481
+Stará Ľubovňa,49.3167,20.6833,Slovakia,SK,Prešovský,minor,16348,16348
+Sered’,48.2833,17.7333,Slovakia,SK,Trnavský,,15726,15726
+Kysucké Nové Mesto,49.3000,18.7833,Slovakia,SK,Žilinský,minor,15132,15132
+Galanta,48.1914,17.7308,Slovakia,SK,Trnavský,minor,15029,15029
+Skalica,48.8436,17.2264,Slovakia,SK,Trnavský,minor,14967,14967
+Levoča,49.0228,20.5906,Slovakia,SK,Prešovský,minor,14803,14803
+Detva,48.5572,19.4208,Slovakia,SK,Banskobystrický,minor,14751,14751
+Šamorín,48.0267,17.3117,Slovakia,SK,Trnavský,,13324,13324
+Sabinov,49.1000,21.1000,Slovakia,SK,Prešovský,minor,12700,12700
+Revúca,48.6833,20.1167,Slovakia,SK,Banskobystrický,minor,12249,12249
+Veľký Krtíš,48.2150,19.3381,Slovakia,SK,Banskobystrický,minor,12115,12115
+Myjava,48.7578,17.5686,Slovakia,SK,Nitriansky,minor,11708,11708
+Zlaté Moravce,48.3781,18.3964,Slovakia,SK,Nitriansky,minor,11583,11583
+Stupava,48.2833,17.0333,Slovakia,SK,Bratislavský,,11471,11471
+Bytča,49.2228,18.5581,Slovakia,SK,Žilinský,minor,11362,11362
+Moldava nad Bodvou,48.6156,20.9992,Slovakia,SK,Košický,,11260,11260
+Holíč,48.8119,17.1628,Slovakia,SK,Trnavský,,11171,11171
+Nová Dubnica,48.9333,18.1500,Slovakia,SK,Nitriansky,,11134,11134
+Svidník,49.3056,21.5678,Slovakia,SK,Prešovský,minor,11096,11096
+Fiľakovo,48.2719,19.8286,Slovakia,SK,Banskobystrický,,10654,10654
+Stropkov,49.2050,21.6514,Slovakia,SK,Prešovský,minor,10654,10654
+Kolárovo,47.9153,17.9972,Slovakia,SK,Nitriansky,,10546,10546
+Štúrovo,47.7992,18.7181,Slovakia,SK,Nitriansky,,10524,10524
+Banská Štiavnica,48.4586,18.8931,Slovakia,SK,Banskobystrický,minor,10097,10097
+Šurany,48.0833,18.1833,Slovakia,SK,Nitriansky,,9878,9878
+Tvrdošín,49.3369,19.5503,Slovakia,SK,Žilinský,minor,9195,9195
+Veľké Kapušany,48.5500,22.0833,Slovakia,SK,Košický,,9004,9004
+Modra,48.3331,17.3069,Slovakia,SK,Bratislavský,,8976,8976
+Stará Turá,48.7772,17.6956,Slovakia,SK,Nitriansky,,8932,8932
+Krompachy,48.9167,20.8744,Slovakia,SK,Košický,,8828,8828
+Veľký Meder,47.8500,17.7667,Slovakia,SK,Trnavský,,8828,8828
+Smižany,48.9584,20.5177,Slovakia,SK,Košický,,8698,8698
+Vráble,48.2500,18.3167,Slovakia,SK,Nitriansky,,8656,8656
+Sečovce,48.7000,21.6500,Slovakia,SK,Košický,,8441,8441
+Krupina,48.3500,19.0669,Slovakia,SK,Banskobystrický,minor,7890,7890
+Námestovo,49.4100,19.4800,Slovakia,SK,Žilinský,minor,7876,7876
+Vrútky,49.1117,18.9236,Slovakia,SK,Žilinský,,7760,7760
+Svit,49.0583,20.2025,Slovakia,SK,Prešovský,,7624,7624
+Turzovka,49.4050,18.6253,Slovakia,SK,Žilinský,,7559,7559
+Hriňová,48.5667,19.5167,Slovakia,SK,Banskobystrický,,7535,7535
+Liptovský Hrádok,49.0394,19.7244,Slovakia,SK,Žilinský,,7528,7528
+Kráľovský Chlmec,48.4233,21.9797,Slovakia,SK,Košický,,7505,7505
+Hnúšťa,48.5736,19.9531,Slovakia,SK,Banskobystrický,,7490,7490
+Hurbanovo,47.8761,18.1972,Slovakia,SK,Nitriansky,,7469,7469
+Trstená,49.3667,19.6167,Slovakia,SK,Žilinský,,7368,7368
+Nová Baňa,48.4267,18.6394,Slovakia,SK,Banskobystrický,,7364,7364
+Šahy,48.0667,18.9667,Slovakia,SK,Nitriansky,,7321,7321
+Bernolákovo,48.1992,17.3003,Slovakia,SK,Bratislavský,,7255,7255
+Tornaľa,48.4167,20.3333,Slovakia,SK,Banskobystrický,,7252,7252
+Želiezovce,48.0486,18.6603,Slovakia,SK,Nitriansky,,6859,6859
+Krásno nad Kysucou,49.3978,18.8364,Slovakia,SK,Žilinský,,6783,6783
+Spišská Belá,49.1858,20.4567,Slovakia,SK,Prešovský,,6657,6657
+Jarovnice,49.0500,21.0667,Slovakia,SK,Prešovský,,6643,6643
+Medzilaborce,49.2717,21.9042,Slovakia,SK,Prešovský,minor,6612,6612
+Lipany,49.1528,20.9619,Slovakia,SK,Prešovský,,6484,6484
+Turčianske Teplice,48.8589,18.8636,Slovakia,SK,Žilinský,minor,6390,6390
+Ivanka pri Dunaji,48.1833,17.2667,Slovakia,SK,Bratislavský,,6384,6384
+Nemšová,48.9669,18.1169,Slovakia,SK,Nitriansky,,6368,6368
+Žarnovica,48.4833,18.7167,Slovakia,SK,Banskobystrický,minor,6284,6284
+Sobrance,48.7460,22.1790,Slovakia,SK,Košický,minor,6170,6170
+Gelnica,48.8550,20.9397,Slovakia,SK,Košický,minor,6099,6099
+Beluša,49.0653,18.3278,Slovakia,SK,Nitriansky,,5925,5925
+Vrbové,48.6208,17.7225,Slovakia,SK,Trnavský,,5907,5907
+Čaňa,48.6125,21.3244,Slovakia,SK,Košický,,5882,5882
+Rajec,49.0833,18.6333,Slovakia,SK,Žilinský,,5816,5816
+Oščadnica,49.4375,18.8857,Slovakia,SK,Žilinský,,5701,5701
+Dobšiná,48.8206,20.3675,Slovakia,SK,Košický,,5696,5696
+Poltár,48.4306,19.7975,Slovakia,SK,Banskobystrický,minor,5693,5693
+Chorvátský Grob,48.2275,17.2908,Slovakia,SK,Bratislavský,,5692,5692
+Svätý Jur,48.2519,17.2156,Slovakia,SK,Bratislavský,,5655,5655
+Raková,49.4430,18.7345,Slovakia,SK,Žilinský,,5507,5507
+Ilava,48.9994,18.2361,Slovakia,SK,Nitriansky,minor,5485,5485
+Zákamenné,49.3897,19.3025,Slovakia,SK,Žilinský,,5442,5442
+Veľký Šariš,49.0383,21.1917,Slovakia,SK,Prešovský,,5404,5404
+Gabčíkovo,47.8921,17.5788,Slovakia,SK,Trnavský,,5391,5391
+Kremnica,48.7044,18.9183,Slovakia,SK,Banskobystrický,,5358,5358
+Sládkovičovo,48.2000,17.6500,Slovakia,SK,Trnavský,,5281,5281
+Lendak,49.2442,20.3556,Slovakia,SK,Prešovský,,5269,5269
+Skalité,49.4972,18.8983,Slovakia,SK,Žilinský,,5248,5248
+Tvrdošovce,48.1000,18.0667,Slovakia,SK,Nitriansky,,5156,5156
+Gbely,48.7175,17.1150,Slovakia,SK,Trnavský,,5155,5155
+Čierny Balog,48.7500,19.6667,Slovakia,SK,Banskobystrický,,5132,5132
+Nesvady,47.9275,18.1269,Slovakia,SK,Nitriansky,,5094,5094
+Dvory nad Žitavou,47.9933,18.2642,Slovakia,SK,Nitriansky,,5084,5084
+Rabča,49.4833,19.4833,Slovakia,SK,Žilinský,,5006,5006
+Sliač,48.6256,19.1519,Slovakia,SK,Banskobystrický,,4980,4980
+Bojnice,48.7822,18.5861,Slovakia,SK,Nitriansky,,4934,4934
+Veľké Čaníkovce,48.3017,17.3456,Slovakia,SK,Bratislavský,,4910,4910
+Veľká Lomnica,49.1114,20.3606,Slovakia,SK,Prešovský,,4890,4890
+Brezová pod Bradlom,48.6653,17.5372,Slovakia,SK,Nitriansky,,4871,4871
+Sučany,49.1000,18.9917,Slovakia,SK,Žilinský,,4710,4710
+Pavlovce nad Uhom,48.6125,22.0667,Slovakia,SK,Košický,,4597,4597
+Veľké Úľany,48.1642,17.5746,Slovakia,SK,Trnavský,,4523,4523
+Rudňany,48.8833,20.6833,Slovakia,SK,Košický,,4514,4514
+Valaliky,48.6425,21.2917,Slovakia,SK,Košický,,4473,4473
+Markušovce,48.9156,20.6261,Slovakia,SK,Košický,,4469,4469
+Čierne,49.4922,18.8225,Slovakia,SK,Žilinský,,4402,4402
+Strážske,48.8667,21.8167,Slovakia,SK,Košický,,4334,4334
+Komjatice,48.1583,18.1667,Slovakia,SK,Nitriansky,,4315,4315
+Močenok,48.2333,17.9333,Slovakia,SK,Nitriansky,,4305,4305
+Turany,49.1167,19.0333,Slovakia,SK,Žilinský,,4275,4275
+Medzev,48.7003,20.8928,Slovakia,SK,Košický,,4261,4261
+Cífer,48.3156,17.4950,Slovakia,SK,Trnavský,,4260,4260
+Palárikovo,48.0433,18.0733,Slovakia,SK,Nitriansky,,4243,4243
+Šoporňa,48.2531,17.8144,Slovakia,SK,Trnavský,,4228,4228
+Teplička nad Váhom,49.2239,18.7992,Slovakia,SK,Žilinský,,4217,4217
+Nováky,48.7167,18.5333,Slovakia,SK,Nitriansky,,4215,4215
+Trenčianska Teplá,48.9333,18.1167,Slovakia,SK,Nitriansky,,4211,4211
+Veľké Zálužie,48.3094,17.9389,Slovakia,SK,Nitriansky,,4208,4208
+Trenčianske Teplice,48.9106,18.1661,Slovakia,SK,Nitriansky,,4177,4177
+Tisovec,48.6806,19.9456,Slovakia,SK,Banskobystrický,,4168,4168
+Leopoldov,48.4464,17.7681,Slovakia,SK,Trnavský,,4161,4161
+Giraltovce,49.1117,21.5167,Slovakia,SK,Prešovský,,4153,4153
+Cabaj-Čápor,48.2500,18.0333,Slovakia,SK,Nitriansky,,4118,4118
+Bošany,48.5806,18.2472,Slovakia,SK,Nitriansky,,4080,4080
+Terchová,49.2589,19.0294,Slovakia,SK,Žilinský,,4078,4078
+Vysoké Tatry,49.1419,20.2231,Slovakia,SK,Prešovský,,4070,4070
+Štiavnik,49.2431,18.4664,Slovakia,SK,Žilinský,,4064,4064
+Kanianka,48.8153,18.5864,Slovakia,SK,Nitriansky,,4050,4050
+Rovinka,48.0978,17.2347,Slovakia,SK,Bratislavský,,4030,4030
+Spišské Podhradie,48.9989,20.7531,Slovakia,SK,Prešovský,,4026,4026
+Lednické Rovne,49.0689,18.2878,Slovakia,SK,Nitriansky,,4011,4011
+Kúty,48.6589,17.0194,Slovakia,SK,Trnavský,,4006,4006
+Borský Mikuláš,48.6278,17.2128,Slovakia,SK,Trnavský,,3994,3994
+Jelka,48.1431,17.5028,Slovakia,SK,Trnavský,,3957,3957
+Oravská Polhora,49.5217,19.4461,Slovakia,SK,Žilinský,,3956,3956
+Čachtice,48.7122,17.7872,Slovakia,SK,Nitriansky,,3939,3939
+Podbrezová,48.8167,19.5500,Slovakia,SK,Banskobystrický,,3882,3882
+Varín,49.2000,18.8833,Slovakia,SK,Žilinský,,3815,3815
+Hanušovce nad Topľou,49.0264,21.5003,Slovakia,SK,Prešovský,,3768,3768
+Veľké Rovné,49.2911,18.5833,Slovakia,SK,Žilinský,,3760,3760
+Trstice,48.0142,17.8061,Slovakia,SK,Trnavský,,3741,3741
+Marcelová,47.7901,18.2899,Slovakia,SK,Nitriansky,,3731,3731
+Valaská,48.8128,19.5750,Slovakia,SK,Banskobystrický,,3726,3726
+Bánov,48.0489,18.1922,Slovakia,SK,Nitriansky,,3722,3722
+Veľká Ida,48.6000,21.1667,Slovakia,SK,Košický,,3714,3714
+Tešedíkovo,48.1062,17.8631,Slovakia,SK,Nitriansky,,3699,3699
+Čierna nad Tisou,48.4170,22.0887,Slovakia,SK,Košický,,3633,3633
+Turna nad Bodvou,48.6006,20.8781,Slovakia,SK,Košický,,3624,3624
+Slovenský Grob,48.2558,17.2747,Slovakia,SK,Bratislavský,,3619,3619
+Jasov,48.6831,20.9742,Slovakia,SK,Košický,,3604,3604
+Veľké Leváre,48.5031,17.0012,Slovakia,SK,Bratislavský,,3581,3581
+Okoč,47.8906,17.8097,Slovakia,SK,Trnavský,,3579,3579
+Novoť,49.4278,19.2667,Slovakia,SK,Žilinský,,3575,3575
+Tlmače,48.2833,18.5333,Slovakia,SK,Nitriansky,,3570,3570
+Svrčinovec,49.4811,18.7922,Slovakia,SK,Žilinský,,3517,3517
+Spišské Vlachy,48.9500,20.8000,Slovakia,SK,Košický,,3509,3509
+Bystrany,48.9494,20.7581,Slovakia,SK,Košický,,3500,3500
+Zborov,49.3722,21.3153,Slovakia,SK,Prešovský,,3485,3485
+Štrba,49.0542,20.0785,Slovakia,SK,Prešovský,,3482,3482
+Oravská Lesná,49.3689,19.1836,Slovakia,SK,Žilinský,,3434,3434
+Nálepkovo,48.8417,20.6200,Slovakia,SK,Košický,,3411,3411
+Horná Súča,48.9667,17.9792,Slovakia,SK,Nitriansky,,3405,3405
+Ľubotice,49.0167,21.2833,Slovakia,SK,Prešovský,,3392,3392
+Smolenice,48.5062,17.4304,Slovakia,SK,Trnavský,,3383,3383
+Belá nad Cirochou,48.9786,22.1061,Slovakia,SK,Prešovský,,3372,3372
+Trenčianska Turná,48.8500,18.0194,Slovakia,SK,Nitriansky,,3369,3369
+Malinovo,48.1528,17.2944,Slovakia,SK,Bratislavský,,3341,3341
+Prakovce,48.8167,20.9000,Slovakia,SK,Košický,,3331,3331
+Neded,48.0208,17.9667,Slovakia,SK,Nitriansky,,3318,3318
+Bátorove Kosihy,47.8308,18.4108,Slovakia,SK,Nitriansky,,3316,3316
+Horné Saliby,48.1244,17.7503,Slovakia,SK,Trnavský,,3283,3283
+Slovenská Ľupča,48.7442,19.2381,Slovakia,SK,Banskobystrický,,3253,3253
+Nitrianske Pravno,48.8667,18.6333,Slovakia,SK,Nitriansky,,3250,3250
+Rakúsy,49.1892,20.3858,Slovakia,SK,Prešovský,,3238,3238
+Zámutov,48.9028,21.5611,Slovakia,SK,Prešovský,,3232,3232
+Vlčany,48.0322,17.9467,Slovakia,SK,Nitriansky,,3222,3222
+Jelšava,48.6264,20.2414,Slovakia,SK,Banskobystrický,,3216,3216
+Podolínec,49.2500,20.5333,Slovakia,SK,Prešovský,,3213,3213
+Rosina,49.1792,18.7667,Slovakia,SK,Žilinský,,3211,3211
+Huncovce,49.1167,20.3833,Slovakia,SK,Prešovský,,3169,3169
+Hranovnica,48.9875,20.3081,Slovakia,SK,Prešovský,,3159,3159
+Hruštín,49.3247,19.3494,Slovakia,SK,Žilinský,,3155,3155
+Nesluša,49.3097,18.7464,Slovakia,SK,Žilinský,,3153,3153
+Klenovec,48.5968,19.8910,Slovakia,SK,Banskobystrický,,3146,3146
+Topoľníky,47.9667,17.7833,Slovakia,SK,Trnavský,,3089,3089
+Dolná Súča,48.9583,18.0306,Slovakia,SK,Nitriansky,,3087,3087
+Likavka,49.0908,19.3106,Slovakia,SK,Žilinský,,3042,3042
+Lozorno,48.3333,17.0389,Slovakia,SK,Bratislavský,,3022,3022
+Nová ľubovňa,49.2711,20.6814,Slovakia,SK,Prešovský,,3005,3005
+Veľký Kýr,48.1750,18.1611,Slovakia,SK,Nitriansky,,2999,2999
+Polomka,48.8525,19.8542,Slovakia,SK,Banskobystrický,,2982,2982
+Lužianky,48.3417,18.0319,Slovakia,SK,Nitriansky,,2978,2978
+Richnava,48.9250,20.9194,Slovakia,SK,Košický,,2971,2971
+Vechec,48.8725,21.6244,Slovakia,SK,Prešovský,,2940,2940
+Oravské Veselé,49.4610,19.3840,Slovakia,SK,Žilinský,,2931,2931
+Liesek,49.3611,19.6750,Slovakia,SK,Žilinský,,2904,2904
+Mojmírovce,48.2069,18.0639,Slovakia,SK,Nitriansky,,2888,2888
+Spišský Štiavnik,48.9950,20.3600,Slovakia,SK,Prešovský,,2877,2877
+Zvolenská Slatina,48.5667,19.2667,Slovakia,SK,Banskobystrický,,2864,2864
+Hliník nad Hronom,48.5436,18.7869,Slovakia,SK,Banskobystrický,,2860,2860
+Tekovské Lužany,48.0986,18.5403,Slovakia,SK,Nitriansky,,2860,2860
+Šarišské Michal’any,49.0692,21.1372,Slovakia,SK,Prešovský,,2855,2855
+Podhorany,49.2389,20.4806,Slovakia,SK,Prešovský,,2853,2853
+Špačince,48.4406,17.6108,Slovakia,SK,Trnavský,,2851,2851
+Kokava nad Rimavicou,48.5703,19.8414,Slovakia,SK,Banskobystrický,,2849,2849
+Selice,48.0933,17.9689,Slovakia,SK,Nitriansky,,2844,2844
+Jakubany,49.2486,20.6944,Slovakia,SK,Prešovský,,2836,2836
+Závod,48.5472,17.0306,Slovakia,SK,Bratislavský,,2823,2823
+Pribeta,47.9000,18.3167,Slovakia,SK,Nitriansky,,2813,2813
+Liptovská Lúžna,48.9417,19.3194,Slovakia,SK,Žilinský,,2812,2812
+Svätý Peter,47.8433,18.2589,Slovakia,SK,Nitriansky,,2788,2788
+Staškov,49.4223,18.6956,Slovakia,SK,Žilinský,,2785,2785
+Nová Bystrica,49.3448,19.0071,Slovakia,SK,Žilinský,,2775,2775
+Horné Srnie,48.9917,18.1014,Slovakia,SK,Nitriansky,,2774,2774
+Sečovská Polianka,48.7833,21.6819,Slovakia,SK,Prešovský,,2765,2765
+Veľké Kostoľany,48.5000,17.7167,Slovakia,SK,Trnavský,,2764,2764
+Pečovská Nová Ves,49.1333,21.0500,Slovakia,SK,Prešovský,,2763,2763
+Stará Bystrica,49.3470,18.9406,Slovakia,SK,Žilinský,,2759,2759
+Vyšné Raslavice,49.1500,21.3167,Slovakia,SK,Prešovský,,2739,2739
+Chynorany,48.6083,18.2736,Slovakia,SK,Nitriansky,,2716,2716
+Trnovec nad Váhom,48.1469,17.9269,Slovakia,SK,Nitriansky,,2709,2709
+Krásnohorské Podhradie,48.6533,20.5972,Slovakia,SK,Košický,,2691,2691
+Ivanka pri Nitre,48.2378,18.1181,Slovakia,SK,Nitriansky,,2673,2673
+Vrakúň,47.9389,17.6042,Slovakia,SK,Trnavský,,2666,2666
+Miloslavov,48.1000,17.3000,Slovakia,SK,Bratislavský,,2665,2665
+Košeca,49.0097,18.2617,Slovakia,SK,Nitriansky,,2664,2664
+Vysoká nad Kysucou,49.3806,18.5431,Slovakia,SK,Žilinský,,2659,2659
+Veľké Brestovany,48.3814,17.6844,Slovakia,SK,Trnavský,,2658,2658
+Lehnice,48.0528,17.4556,Slovakia,SK,Trnavský,,2657,2657
+Zázrivá,49.2792,19.1583,Slovakia,SK,Žilinský,,2657,2657
+Čaklov,48.9000,21.6333,Slovakia,SK,Prešovský,,2620,2620
+Heľpa,48.8606,19.9694,Slovakia,SK,Banskobystrický,,2614,2614
+Topoľčianky,48.4189,18.4119,Slovakia,SK,Nitriansky,,2613,2613
+Očová,48.6000,19.2867,Slovakia,SK,Banskobystrický,,2603,2603
+Ladce,49.0379,18.2870,Slovakia,SK,Nitriansky,,2602,2602
+Kopčany,48.7833,17.1167,Slovakia,SK,Trnavský,,2582,2582
+Dolné Vestenice,48.7040,18.3961,Slovakia,SK,Nitriansky,,2580,2580
+Zeleneč,48.3311,17.5950,Slovakia,SK,Trnavský,,2572,2572
+Veľký Biel,48.2164,17.3583,Slovakia,SK,Bratislavský,,2567,2567
+Chtelnica,48.5694,17.6250,Slovakia,SK,Trnavský,,2562,2562
+Drahovce,48.5178,17.8050,Slovakia,SK,Trnavský,,2558,2558
+Moravské Lieskové,48.8194,17.7958,Slovakia,SK,Nitriansky,,2557,2557
+Spišské Bystré,48.9925,20.2428,Slovakia,SK,Prešovský,,2556,2556
+Soľ,48.9264,21.5986,Slovakia,SK,Prešovský,,2554,2554
+Strečno,49.1889,18.8653,Slovakia,SK,Žilinský,,2554,2554
+Tomášov,48.1422,17.3367,Slovakia,SK,Bratislavský,,2527,2527
+Veľká Mača,48.2440,17.6927,Slovakia,SK,Trnavský,,2523,2523
+Hrabušice,48.9833,20.4167,Slovakia,SK,Prešovský,,2521,2521
+Široké,49.0000,20.9333,Slovakia,SK,Prešovský,,2505,2505
+Stráne pod Tatrami,49.1583,20.3694,Slovakia,SK,Prešovský,,2503,2503
+Rozhanovce,48.7500,21.3500,Slovakia,SK,Košický,,2503,2503
+Spišský Štvrtok,49.0019,20.4678,Slovakia,SK,Prešovský,,2499,2499
+Svodín,47.9144,18.5006,Slovakia,SK,Nitriansky,,2478,2478
+Viničné,48.2717,17.3008,Slovakia,SK,Bratislavský,,2473,2473
+Papradno,49.2297,18.4103,Slovakia,SK,Nitriansky,,2470,2470
+Solčany,48.5375,18.2000,Slovakia,SK,Nitriansky,,2465,2465
+Liptovská Teplička,48.9664,20.0889,Slovakia,SK,Prešovský,,2453,2453
+Stakčín,49.0028,22.2417,Slovakia,SK,Prešovský,,2435,2435
+Moravany nad Váhom,48.6028,17.8639,Slovakia,SK,Trnavský,,2420,2420
+Sačurov,48.8217,21.6947,Slovakia,SK,Prešovský,,2415,2415
+Budmerice,48.3564,17.4078,Slovakia,SK,Bratislavský,,2402,2402
+Žehra,48.9794,20.7925,Slovakia,SK,Prešovský,,2399,2399
+Batizovce,49.0758,20.1811,Slovakia,SK,Prešovský,,2385,2385
+Divina,49.2722,18.6944,Slovakia,SK,Žilinský,,2384,2384
+Važec,49.0592,19.9800,Slovakia,SK,Žilinský,,2376,2376
+Plavecký Štvrtok,48.3753,16.9961,Slovakia,SK,Bratislavský,,2372,2372
+Chminianske Jakubovany,48.9917,21.0083,Slovakia,SK,Prešovský,,2370,2370
+Zlatná na Ostrove,47.7706,17.9714,Slovakia,SK,Nitriansky,,2370,2370
+Pliešovce,48.4222,19.1528,Slovakia,SK,Banskobystrický,,2365,2365
+Oslany,48.6303,18.4694,Slovakia,SK,Nitriansky,,2363,2363
+Lokca,49.3667,19.4167,Slovakia,SK,Žilinský,,2361,2361
+Kysucký Lieskovec,49.3375,18.8114,Slovakia,SK,Žilinský,,2354,2354
+Bučany,48.4186,17.6972,Slovakia,SK,Trnavský,,2340,2340
+Veľké Šúrovce,48.3328,17.7175,Slovakia,SK,Trnavský,,2336,2336
+Zemianska Olča,47.8000,17.8667,Slovakia,SK,Nitriansky,,2332,2332
+Kamenica nad Cirochou,48.9325,21.9992,Slovakia,SK,Prešovský,,2331,2331
+Závadka nad Hronom,48.8500,19.9167,Slovakia,SK,Banskobystrický,,2326,2326
+Soblahov,48.8667,18.0831,Slovakia,SK,Nitriansky,,2314,2314
+Klokočov,49.4518,18.5711,Slovakia,SK,Žilinský,,2313,2313
+Spišská Stará Ves,49.3833,20.3667,Slovakia,SK,Prešovský,,2302,2302
+Zubrohlava,49.4441,19.5115,Slovakia,SK,Žilinský,,2300,2300
+Boleráz,48.4658,17.4931,Slovakia,SK,Trnavský,,2300,2300
+Brodské,48.6914,17.0128,Slovakia,SK,Trnavský,,2294,2294
+Jaslovské Bohunice,48.4767,17.6467,Slovakia,SK,Trnavský,,2292,2292
+Zavar,48.3506,17.6728,Slovakia,SK,Trnavský,,2291,2291
+Hrnčiarovce nad Parnou,48.3422,17.5700,Slovakia,SK,Trnavský,,2289,2289
+Pruské,49.0265,18.2108,Slovakia,SK,Nitriansky,,2288,2288
+Letanovce,48.9778,20.4667,Slovakia,SK,Prešovský,,2280,2280
+Svinia,49.0083,21.1222,Slovakia,SK,Prešovský,,2279,2279
+Diakovce,48.1350,17.8406,Slovakia,SK,Nitriansky,,2277,2277
+Plešivec,48.5472,20.4028,Slovakia,SK,Košický,,2277,2277
+Drienovec,48.6111,20.9472,Slovakia,SK,Košický,,2269,2269
+Drietoma,48.8917,17.9614,Slovakia,SK,Nitriansky,,2268,2268
+Spišská Teplica,49.0472,20.2500,Slovakia,SK,Prešovský,,2263,2263
+Dolná Krupá,48.4767,17.6467,Slovakia,SK,Trnavský,,2255,2255
+Cinobaňa,48.4469,19.6486,Slovakia,SK,Banskobystrický,,2254,2254
+Zborov nad Bystricou,49.3828,18.8819,Slovakia,SK,Žilinský,,2253,2253
+Streda nad Bodrogom,48.3667,21.7667,Slovakia,SK,Košický,,2250,2250
+Častá,48.3989,17.3592,Slovakia,SK,Bratislavský,,2247,2247
+Kapušany,49.0436,21.3333,Slovakia,SK,Prešovský,,2246,2246
+Zbehy,48.3631,18.0192,Slovakia,SK,Nitriansky,,2242,2242
+Krížová Ves,49.1889,20.4875,Slovakia,SK,Prešovský,,2239,2239
+Veľká Udiča,49.1667,18.4000,Slovakia,SK,Nitriansky,,2238,2238
+Jablonica,48.6081,17.4200,Slovakia,SK,Trnavský,,2235,2235
+Drienov,48.8733,21.2706,Slovakia,SK,Prešovský,,2226,2226
+Madunice,48.4767,17.7800,Slovakia,SK,Trnavský,,2218,2218
+Lehota,48.3136,17.9742,Slovakia,SK,Nitriansky,,2217,2217
+Výčapy-Opatovce,48.4081,18.0833,Slovakia,SK,Nitriansky,,2214,2214
+Pohorelá,48.8653,20.0183,Slovakia,SK,Banskobystrický,,2212,2212
+Matúškovo,48.1678,17.7328,Slovakia,SK,Trnavský,,2202,2202
+Vojčice,48.6778,21.7153,Slovakia,SK,Košický,,2200,2200
+Jarovce,48.0653,17.1133,Slovakia,SK,Bratislavský,,2200,2200
+Kalinovo,48.3944,19.7072,Slovakia,SK,Banskobystrický,,2189,2189
+Fintice,49.0522,21.2842,Slovakia,SK,Prešovský,,2187,2187
+Trhová Hradská,47.9917,17.7500,Slovakia,SK,Trnavský,,2171,2171
+Gbelce,47.8506,18.5111,Slovakia,SK,Nitriansky,,2170,2170
+Zemné,47.9903,17.9958,Slovakia,SK,Nitriansky,,2167,2167
+Selce,48.7639,19.2042,Slovakia,SK,Banskobystrický,,2159,2159
+Seňa,48.5583,21.2528,Slovakia,SK,Košický,,2158,2158
+Sihelné,49.5061,19.4176,Slovakia,SK,Žilinský,,2154,2154
+Brusno,48.8000,19.3833,Slovakia,SK,Banskobystrický,,2148,2148
+Čečejovce,48.5972,21.0653,Slovakia,SK,Košický,,2144,2144
+Východná,49.0586,19.8892,Slovakia,SK,Žilinský,,2139,2139
+Suchá nad Parnou,48.4097,17.4897,Slovakia,SK,Trnavský,,2131,2131
+Ostrovany,49.0622,21.1175,Slovakia,SK,Prešovský,,2127,2127
+Moravský Svätý Ján,48.5893,17.0001,Slovakia,SK,Trnavský,,2127,2127
+Valaská Belá,48.8878,18.3969,Slovakia,SK,Nitriansky,,2126,2126
+Lisková,49.0900,19.3533,Slovakia,SK,Žilinský,,2109,2109
+Lysá pod Makytou,49.1972,18.1953,Slovakia,SK,Nitriansky,,2105,2105
+Rimavská Seč,48.3045,20.2353,Slovakia,SK,Banskobystrický,,2104,2104
+Jelenec,48.3786,18.2236,Slovakia,SK,Nitriansky,,2103,2103
+Váhovce,48.2514,17.7803,Slovakia,SK,Trnavský,,2098,2098
+Hliník,48.2917,17.2278,Slovakia,SK,Bratislavský,,2092,2092
+Veľké Ripňany,48.5031,17.9836,Slovakia,SK,Nitriansky,,2089,2089
+Nitrianske Hrnčiarovce,48.3333,18.1333,Slovakia,SK,Nitriansky,,2083,2083
+Švedlar,48.8139,20.7083,Slovakia,SK,Košický,,2083,2083
+Bzince pod Javorinou,48.7886,17.7736,Slovakia,SK,Nitriansky,,2080,2080
+Rišňovce,48.3694,17.8944,Slovakia,SK,Nitriansky,,2075,2075
+Kozárovce,48.3167,18.5333,Slovakia,SK,Banskobystrický,,2075,2075
+Divín,48.4506,19.5328,Slovakia,SK,Banskobystrický,,2075,2075
+Hamuliakovo,48.0386,17.2531,Slovakia,SK,Trnavský,,2057,2057
+Lovinobaňa,48.4375,19.5894,Slovakia,SK,Banskobystrický,,2055,2055
+Marianka,48.2481,17.0600,Slovakia,SK,Bratislavský,,2054,2054
+Pružina,49.0165,18.4746,Slovakia,SK,Nitriansky,,2043,2043
+Bojná,48.5761,18.0567,Slovakia,SK,Nitriansky,,2037,2037
+Spišské Tomášovce,48.9628,20.4733,Slovakia,SK,Košický,,2025,2025
+Víťaz,48.9718,20.9529,Slovakia,SK,Prešovský,,2023,2023
+Veľké Uherce,48.6065,18.4380,Slovakia,SK,Nitriansky,,2020,2020
+Jarok,48.2778,17.9556,Slovakia,SK,Nitriansky,,2018,2018
+Rabčice,49.5061,19.5194,Slovakia,SK,Žilinský,,2016,2016
+Dvorníky,48.3578,17.7969,Slovakia,SK,Trnavský,,2015,2015
+Horná Potôň,48.0333,17.4833,Slovakia,SK,Trnavský,,2010,2010
+Prašice,48.6417,18.1042,Slovakia,SK,Nitriansky,,2009,2009
+Badín,48.6653,19.1217,Slovakia,SK,Banskobystrický,,2006,2006
+Kendice,48.9167,21.2500,Slovakia,SK,Trnavský,,2001,2001
+Majcichov,48.2878,17.6289,Slovakia,SK,Trnavský,,2001,2001
+Turie,49.1492,18.7528,Slovakia,SK,Žilinský,,1995,1995
+Kotešová,49.2448,18.5993,Slovakia,SK,Žilinský,,1993,1993
+Dolné Saliby,48.1000,17.7833,Slovakia,SK,Trnavský,,1988,1988
+Trhovište,48.6994,21.8053,Slovakia,SK,Košický,,1985,1985
+Strekov,47.9017,18.4189,Slovakia,SK,Nitriansky,,1979,1979
+Vyšná Šuňava,49.0300,20.0881,Slovakia,SK,Prešovský,,1975,1975
+Petrovany,48.9194,21.2694,Slovakia,SK,Prešovský,,1973,1973
+Omšenie,48.9014,18.2253,Slovakia,SK,Nitriansky,,1973,1973
+Toporec,49.2667,20.5000,Slovakia,SK,Prešovský,,1957,1957
+Imeľ,47.9022,18.1447,Slovakia,SK,Nitriansky,,1949,1949
+Radošina,48.5456,17.9381,Slovakia,SK,Nitriansky,,1948,1948
+Hermanovce,49.0458,21.0167,Slovakia,SK,Prešovský,,1942,1942
+Lemešany,48.8500,21.2667,Slovakia,SK,Prešovský,,1941,1941
+Olešná,49.4235,18.6740,Slovakia,SK,Žilinský,,1939,1939
+Nitrianske Rudno,48.7972,18.4764,Slovakia,SK,Nitriansky,,1936,1936
+Dlhé nad Cirochou,48.9603,22.0619,Slovakia,SK,Prešovský,,1936,1936
+Ochodnica,49.3476,18.7951,Slovakia,SK,Žilinský,,1934,1934
+Bobrovec,49.1178,19.6111,Slovakia,SK,Žilinský,,1919,1919
+Margecany,48.8928,21.0136,Slovakia,SK,Košický,,1915,1915
+Kameničná,47.8167,18.0417,Slovakia,SK,Nitriansky,,1915,1915
+Parchovany,48.7528,21.7139,Slovakia,SK,Košický,,1914,1914
+Michaľany,48.5056,21.6139,Slovakia,SK,Košický,,1912,1912
+Dolný Štál,47.9364,17.7169,Slovakia,SK,Trnavský,,1907,1907
+Dlhé Pole,49.3083,18.6319,Slovakia,SK,Žilinský,,1899,1899
+Horné Orešany,48.4661,17.4394,Slovakia,SK,Trnavský,,1892,1892
+Mužla,47.7922,18.5978,Slovakia,SK,Nitriansky,,1884,1884
+Vikartovce,48.9936,20.1525,Slovakia,SK,Prešovský,,1882,1882
+Harichovce,48.9667,20.5833,Slovakia,SK,Prešovský,,1879,1879
+Jaklovce,48.8744,20.9944,Slovakia,SK,Košický,,1878,1878
+Horná Kráľová,48.2439,17.9153,Slovakia,SK,Nitriansky,,1877,1877
+Dobrá Niva,48.4714,19.1022,Slovakia,SK,Banskobystrický,,1874,1874
+Banské,48.8306,21.5778,Slovakia,SK,Prešovský,,1871,1871
+Slovenská Ves,49.2250,20.4250,Slovakia,SK,Prešovský,,1867,1867
+Slavošovce,48.7167,20.2833,Slovakia,SK,Košický,,1864,1864
+Nižné Slovinky,48.8800,20.8433,Slovakia,SK,Košický,,1864,1864
+Veľké Lovce,48.0639,18.3372,Slovakia,SK,Nitriansky,,1860,1860
+Pukanec,48.3533,18.7228,Slovakia,SK,Nitriansky,,1859,1859
+Podolie,48.6722,17.7722,Slovakia,SK,Nitriansky,,1858,1858
+Stráňavy,49.1722,18.8203,Slovakia,SK,Žilinský,,1856,1856
+Dechtice,48.5458,17.5950,Slovakia,SK,Trnavský,,1851,1851
+Lietavská Lúčka,49.1753,18.7222,Slovakia,SK,Žilinský,,1845,1845
+Ďurkov,48.7078,21.4464,Slovakia,SK,Košický,,1845,1845
+Zuberec,49.2667,19.6167,Slovakia,SK,Žilinský,,1841,1841
+Báhoň,48.3042,17.4481,Slovakia,SK,Bratislavský,,1840,1840
+Hlinné,48.9667,21.5833,Slovakia,SK,Prešovský,,1838,1838
+Ludanice,48.5000,18.1181,Slovakia,SK,Nitriansky,,1825,1825
+Bobrov,49.4281,19.5442,Slovakia,SK,Žilinský,,1821,1821
+Krížovany nad Dudváhom,48.3236,17.6556,Slovakia,SK,Trnavský,,1818,1818
+Nacina Ves,48.8169,21.8539,Slovakia,SK,Košický,,1817,1817
+Kolárovice,49.2729,18.5328,Slovakia,SK,Žilinský,,1815,1815
+Kamenica,49.1908,20.9611,Slovakia,SK,Prešovský,,1813,1813
+Vinné,48.8083,21.9667,Slovakia,SK,Košický,,1810,1810
+Bystričany,48.6586,18.5139,Slovakia,SK,Nitriansky,,1801,1801
+Vidiná,48.3597,19.6542,Slovakia,SK,Banskobystrický,,1800,1800
+Dohňany,49.1469,18.2881,Slovakia,SK,Nitriansky,,1796,1796
+Kráľová nad Váhom,48.1689,17.8442,Slovakia,SK,Nitriansky,,1793,1793
+Pusté Úľany,48.2333,17.5694,Slovakia,SK,Trnavský,,1791,1791
+Nemecká,48.8108,19.4172,Slovakia,SK,Banskobystrický,,1790,1790
+Blatné,48.2656,17.4208,Slovakia,SK,Bratislavský,,1782,1782
+Zemianske Kostoľany,48.6842,18.5244,Slovakia,SK,Nitriansky,,1781,1781
+Mníšek nad Hnilcom,48.8042,20.8047,Slovakia,SK,Košický,,1781,1781
+Leles,48.4639,22.0306,Slovakia,SK,Košický,,1770,1770
+Diviacka Nová Ves,48.7481,18.4997,Slovakia,SK,Nitriansky,,1769,1769
+Zákopčie,49.4058,18.7317,Slovakia,SK,Žilinský,,1761,1761
+Jacovce,48.5931,18.1339,Slovakia,SK,Nitriansky,,1760,1760
+Štvrtok na Ostrove,48.0999,17.3526,Slovakia,SK,Trnavský,,1758,1758
+Sekule,48.6000,17.0000,Slovakia,SK,Trnavský,,1746,1746
+Golianovo,48.2683,18.1867,Slovakia,SK,Nitriansky,,1743,1743
+Diviaky nad Nitricou,48.7642,18.4928,Slovakia,SK,Nitriansky,,1740,1740
+Sebedražie,48.7306,18.6222,Slovakia,SK,Nitriansky,,1736,1736
+Lietavská Svinná,49.1528,18.6750,Slovakia,SK,Žilinský,,1734,1734
+Šintava,48.2829,17.7532,Slovakia,SK,Trnavský,,1731,1731
+Pohronská Polhora,48.7553,19.7992,Slovakia,SK,Banskobystrický,,1730,1730
+Dulovce,47.8667,18.2667,Slovakia,SK,Nitriansky,,1727,1727
+Geča,48.6278,21.3083,Slovakia,SK,Košický,,1725,1725
+Žabokreky nad Nitrou,48.6264,18.3028,Slovakia,SK,Nitriansky,,1724,1724
+Makov,49.3706,18.4797,Slovakia,SK,Žilinský,,1720,1720
+Kriváň,48.5303,19.4450,Slovakia,SK,Banskobystrický,,1710,1710
+Dolné Sľažany,48.3875,18.3269,Slovakia,SK,Nitriansky,,1707,1707
+Valča,49.0000,18.8500,Slovakia,SK,Žilinský,,1703,1703
+Žihárec,48.0733,17.8811,Slovakia,SK,Nitriansky,,1701,1701
+Orechová Potôň,48.0183,17.5350,Slovakia,SK,Trnavský,,1698,1698
+Zemplínska Teplica,48.6453,21.5725,Slovakia,SK,Košický,,1696,1696
+Vydrany,48.0167,17.5875,Slovakia,SK,Trnavský,,1695,1695
+Krušovce,48.5961,18.2108,Slovakia,SK,Nitriansky,,1691,1691
+Čereňany,48.6417,18.4850,Slovakia,SK,Nitriansky,,1691,1691
+Janovce,49.0175,20.4300,Slovakia,SK,Prešovský,,1690,1690
+Lazany,48.8189,18.6214,Slovakia,SK,Nitriansky,,1690,1690
+Kuchyňa,48.4069,17.1556,Slovakia,SK,Bratislavský,,1690,1690
+Nižná Myšľa,48.6236,21.3653,Slovakia,SK,Košický,,1689,1689
+Tomášikovo,48.0839,17.6931,Slovakia,SK,Trnavský,,1686,1686
+Malý Šariš,49.0083,21.1833,Slovakia,SK,Prešovský,,1683,1683
+Košúty,48.1722,17.6556,Slovakia,SK,Trnavský,,1683,1683
+Halič,48.3500,19.5833,Slovakia,SK,Banskobystrický,,1668,1668
+Klátova Nová Ves,48.5642,18.3058,Slovakia,SK,Nitriansky,,1664,1664
+Červeník,48.4767,17.7786,Slovakia,SK,Trnavský,,1655,1655
+Štefanov,48.6783,17.2003,Slovakia,SK,Trnavský,,1655,1655
+Borský Svätý Jur,48.6133,17.0458,Slovakia,SK,Trnavský,,1655,1655
+Nižný Hrabovec,48.8544,21.7536,Slovakia,SK,Prešovský,,1653,1653
+Ožďany,48.3775,19.8950,Slovakia,SK,Banskobystrický,,1652,1652
+Plavnica,49.2744,20.7806,Slovakia,SK,Prešovský,,1651,1651
+Iža,47.7506,18.2333,Slovakia,SK,Nitriansky,,1651,1651
+Nová Lesná,49.1224,20.2674,Slovakia,SK,Prešovský,,1647,1647
+Ružindol,48.3728,17.4914,Slovakia,SK,Trnavský,,1647,1647
+Liptovská Osada,48.9507,19.2625,Slovakia,SK,Žilinský,,1632,1632
+Bešeňov,48.0417,18.2667,Slovakia,SK,Nitriansky,,1627,1627
+Breza,49.3875,19.3850,Slovakia,SK,Žilinský,,1626,1626
+Čierny Brod,48.1500,17.6594,Slovakia,SK,Trnavský,,1624,1624
+Chlebnice,49.2297,19.4643,Slovakia,SK,Žilinský,,1622,1622
+Vígľaš,48.5556,19.2947,Slovakia,SK,Banskobystrický,,1620,1620
+Horný Vadičov,49.2667,18.8833,Slovakia,SK,Žilinský,,1619,1619
+Veľké Šarovce,48.1000,18.6333,Slovakia,SK,Nitriansky,,1616,1616
+Horná Štubňa,48.8249,18.8842,Slovakia,SK,Žilinský,,1615,1615
+Kovarce,48.4975,18.1567,Slovakia,SK,Nitriansky,,1614,1614
+Studienka,48.5272,17.1389,Slovakia,SK,Bratislavský,,1612,1612
+Dolný Hričov,49.2314,18.6339,Slovakia,SK,Žilinský,,1610,1610
+Žaškov,49.1786,19.2122,Slovakia,SK,Žilinský,,1608,1608
+Dubník,47.9581,18.4117,Slovakia,SK,Nitriansky,,1602,1602
+Hodejov,48.3022,19.9964,Slovakia,SK,Banskobystrický,,1599,1599
+Modrý Kameň,48.2406,19.3344,Slovakia,SK,Banskobystrický,,1597,1597
+Župčany,49.0125,21.1569,Slovakia,SK,Prešovský,,1592,1592
+Mostová,48.1422,17.6769,Slovakia,SK,Trnavský,,1591,1591
+Spišský Hrhov,49.0000,20.6417,Slovakia,SK,Prešovský,,1589,1589
+Kláštor pod Znievom,48.9722,18.8083,Slovakia,SK,Žilinský,,1589,1589
+Malcov,49.3050,21.0617,Slovakia,SK,Prešovský,,1588,1588
+Veľké Blahovo,48.0100,17.5764,Slovakia,SK,Trnavský,,1586,1586
+Hrań,48.5447,21.7889,Slovakia,SK,Košický,,1584,1584
+Kolíňany,48.3592,18.1911,Slovakia,SK,Nitriansky,,1582,1582
+Veľký Cetín,48.2214,18.1956,Slovakia,SK,Nitriansky,,1582,1582
+Domaniža,49.0444,18.5528,Slovakia,SK,Nitriansky,,1582,1582
+Malá Ida,48.6747,21.1703,Slovakia,SK,Košický,,1581,1581
+Hviezdoslavov,48.0675,17.3481,Slovakia,SK,Trnavský,,1577,1577
+Bidovce,48.7361,21.4383,Slovakia,SK,Košický,,1575,1575
+Kluknava,48.9236,20.9417,Slovakia,SK,Košický,,1575,1575
+Svinná,48.7858,18.1631,Slovakia,SK,Nitriansky,,1572,1572
+Poniky,48.7097,19.2903,Slovakia,SK,Banskobystrický,,1572,1572
+Sološnica,48.4639,17.2306,Slovakia,SK,Bratislavský,,1569,1569
+Opatovce nad Nitrou,48.7626,18.5708,Slovakia,SK,Nitriansky,,1566,1566
+Jahodná,48.0500,17.7028,Slovakia,SK,Trnavský,,1564,1564
+Trstené pri Hornáde,48.5725,21.3369,Slovakia,SK,Košický,,1563,1563
+Bolešov,48.9856,18.1564,Slovakia,SK,Nitriansky,,1563,1563
+Kočovce,48.7500,17.8833,Slovakia,SK,Nitriansky,,1563,1563
+Trakovice,48.4392,17.7086,Slovakia,SK,Trnavský,,1556,1556
+Dolný Ohaj,48.0833,18.2500,Slovakia,SK,Nitriansky,,1556,1556
+Radzovce,48.2197,19.8281,Slovakia,SK,Banskobystrický,,1551,1551
+Plášťovce,48.1667,18.9833,Slovakia,SK,Nitriansky,,1547,1547
+Ražňany,49.0806,21.0833,Slovakia,SK,Prešovský,,1546,1546
+Torysa,49.1611,20.8778,Slovakia,SK,Prešovský,,1544,1544
+Liptovské Revúce,48.9306,19.2028,Slovakia,SK,Žilinský,,1543,1543
+Dolná Streda,48.2697,17.7514,Slovakia,SK,Trnavský,,1539,1539
+Švábovce,49.0264,20.3583,Slovakia,SK,Prešovský,,1538,1538
+Krasňany,49.2131,18.8881,Slovakia,SK,Žilinský,,1538,1538
+Nižný Hrušov,48.8000,21.7833,Slovakia,SK,Prešovský,,1537,1537
+Konská,49.1139,18.6778,Slovakia,SK,Žilinský,,1534,1534
+Telgárt,48.8519,20.1886,Slovakia,SK,Banskobystrický,,1532,1532
+Vrbov,49.0889,20.4236,Slovakia,SK,Prešovský,,1526,1526
+Krajné,48.7156,17.6950,Slovakia,SK,Nitriansky,,1526,1526
+Budkovce,48.6361,21.9292,Slovakia,SK,Košický,,1521,1521
+Štítnik,48.6667,20.3667,Slovakia,SK,Košický,,1520,1520
+Kajal,48.1833,17.7833,Slovakia,SK,Nitriansky,,1519,1519
+Úľany nad Žitavou,48.1069,18.2386,Slovakia,SK,Nitriansky,,1517,1517
+Vrbovce,48.8000,17.4667,Slovakia,SK,Nitriansky,,1510,1510
+Komjatná,49.1464,19.2439,Slovakia,SK,Žilinský,,1508,1508
+Voderady,48.2778,17.5583,Slovakia,SK,Trnavský,,1507,1507
+Malčice,48.5750,21.8500,Slovakia,SK,Košický,,1505,1505
+Obyce,48.4278,18.4528,Slovakia,SK,Nitriansky,,1505,1505
+Vavrečka,49.3844,19.4694,Slovakia,SK,Žilinský,,1503,1503
+Reca,48.2319,17.4475,Slovakia,SK,Bratislavský,,1502,1502
+Uhrovec,48.7500,18.3333,Slovakia,SK,Nitriansky,,1500,1500
+Veľký Lapáš,48.2900,18.1858,Slovakia,SK,Nitriansky,,1495,1495
+Ruskov,48.6822,21.4325,Slovakia,SK,Košický,,1494,1494
+Málinec,48.4972,19.6806,Slovakia,SK,Banskobystrický,,1494,1494
+Malženice,48.4500,17.6750,Slovakia,SK,Trnavský,,1493,1493
+Sobotište,48.7314,17.4058,Slovakia,SK,Trnavský,,1493,1493
+Bystrička,49.0494,18.8783,Slovakia,SK,Žilinský,,1492,1492
+Nižný Žipov,48.5833,21.6500,Slovakia,SK,Košický,,1491,1491
+Okoličná na Ostrove,47.8047,17.9206,Slovakia,SK,Nitriansky,,1491,1491
+Radola,49.2908,18.7944,Slovakia,SK,Žilinský,,1489,1489
+Hrochoť,48.6667,19.3167,Slovakia,SK,Banskobystrický,,1488,1488
+Častkovce,48.6892,17.7806,Slovakia,SK,Nitriansky,,1486,1486
+Lietava,49.1694,18.6758,Slovakia,SK,Žilinský,,1482,1482
+Tovarníky,48.5736,18.1444,Slovakia,SK,Nitriansky,,1480,1480
+Slanec,48.6361,21.4786,Slovakia,SK,Košický,,1479,1479
+Prečín,49.0853,18.5197,Slovakia,SK,Nitriansky,,1478,1478
+Drahňov,48.5917,21.9667,Slovakia,SK,Košický,,1476,1476
+Dubovica,49.1350,20.9525,Slovakia,SK,Prešovský,,1475,1475
+Andovce,48.0000,18.1167,Slovakia,SK,Nitriansky,,1472,1472
+Hontianske Nemce,48.2844,18.9886,Slovakia,SK,Banskobystrický,,1471,1471
+Veľké Ludince,47.9667,18.5167,Slovakia,SK,Nitriansky,,1471,1471
+Hyby,49.0445,19.8290,Slovakia,SK,Žilinský,,1471,1471
+Varhaňovce,48.8556,21.3611,Slovakia,SK,Prešovský,,1470,1470
+Rybany,48.6667,18.2583,Slovakia,SK,Nitriansky,,1468,1468
+Kysak,48.8583,21.2167,Slovakia,SK,Košický,,1462,1462
+Hniezdne,49.3000,20.6333,Slovakia,SK,Prešovský,,1457,1457
+Sielnica,48.6319,19.1125,Slovakia,SK,Banskobystrický,,1456,1456
+Starý Tekov,48.2500,18.5333,Slovakia,SK,Nitriansky,,1451,1451
+Bíňa,47.9222,18.6417,Slovakia,SK,Nitriansky,,1451,1451
+Babín,49.3322,19.3794,Slovakia,SK,Žilinský,,1449,1449
+Trstín,48.5278,17.4639,Slovakia,SK,Trnavský,,1448,1448
+Kamenín,47.8881,18.6444,Slovakia,SK,Nitriansky,,1448,1448
+Čunovo,48.0297,17.1989,Slovakia,SK,Bratislavský,,1447,1447
+Veľké Trakany,48.3925,22.0939,Slovakia,SK,Košický,,1443,1443
+Somotor,48.4028,21.8086,Slovakia,SK,Košický,,1441,1441
+Lubina,48.7839,17.7358,Slovakia,SK,Nitriansky,,1441,1441
+Suchá Hora,49.3656,19.7894,Slovakia,SK,Žilinský,,1438,1438
+Kvetoslavov,48.0583,17.3417,Slovakia,SK,Trnavský,,1430,1430
+Hronské Kľačany,48.2400,18.5683,Slovakia,SK,Nitriansky,,1429,1429
+Helcmanovce,48.8306,20.8722,Slovakia,SK,Košický,,1429,1429
+Bušince,48.1667,19.5000,Slovakia,SK,Banskobystrický,,1425,1425
+Preseľany,48.4500,18.1000,Slovakia,SK,Nitriansky,,1424,1424
+Ždaňa,48.6047,21.3500,Slovakia,SK,Košický,,1422,1422
+Dudince,48.1686,18.8800,Slovakia,SK,Banskobystrický,,1422,1422
+Sedliská,48.9047,21.7250,Slovakia,SK,Prešovský,,1422,1422
+Vyšné Ružbachy,49.3000,20.5667,Slovakia,SK,Prešovský,,1422,1422
+Bojničky,48.3917,17.7969,Slovakia,SK,Trnavský,,1421,1421
+Šarišské Jastrabie,49.2416,20.9093,Slovakia,SK,Prešovský,,1420,1420
+Bohdanovce nad Trnavou,48.4339,17.5422,Slovakia,SK,Trnavský,,1415,1415
+Dolná Mariková,49.2081,18.3561,Slovakia,SK,Nitriansky,,1415,1415
+Dlhá nad Oravou,49.2663,19.4469,Slovakia,SK,Žilinský,,1415,1415
+Kútniky,47.9767,17.6608,Slovakia,SK,Trnavský,,1413,1413
+Biel,48.4078,22.0547,Slovakia,SK,Košický,,1407,1407
+Urmince,48.5333,18.1000,Slovakia,SK,Nitriansky,,1405,1405
+Chrenovec-Brusno,48.7761,18.7233,Slovakia,SK,Nitriansky,,1397,1397
+Bošáca,48.8278,17.8389,Slovakia,SK,Nitriansky,,1397,1397
+Veľký Slavkov,49.0958,20.2795,Slovakia,SK,Prešovský,,1396,1396
+Chotín,47.8050,18.2306,Slovakia,SK,Nitriansky,,1395,1395
+Habovka,49.2800,19.6064,Slovakia,SK,Žilinský,,1392,1392
+Medzibrod,48.7944,19.3581,Slovakia,SK,Banskobystrický,,1390,1390
+Gánovce,49.0319,20.3236,Slovakia,SK,Prešovský,,1389,1389
+Horná Streda,48.6567,17.8422,Slovakia,SK,Nitriansky,,1386,1386
+Dlhé Klčovo,48.8112,21.7385,Slovakia,SK,Prešovský,,1384,1384
+Dolná Tižina,49.2167,18.9167,Slovakia,SK,Žilinský,,1383,1383
+Semerovo,48.0167,18.3500,Slovakia,SK,Nitriansky,,1383,1383
+Gbelany,49.2139,18.8472,Slovakia,SK,Žilinský,,1382,1382
+Ždiar,49.2708,20.2653,Slovakia,SK,Prešovský,,1379,1379
+Čierna Voda,48.1278,17.6528,Slovakia,SK,Trnavský,,1375,1375
+Skačany,48.6608,18.3785,Slovakia,SK,Nitriansky,,1375,1375
+Nenince,48.1472,19.2611,Slovakia,SK,Banskobystrický,,1373,1373
+Klasov,48.2767,18.2583,Slovakia,SK,Nitriansky,,1372,1372
+Beckov,48.7894,17.8950,Slovakia,SK,Nitriansky,,1368,1368
+Vlčkovce,48.3083,17.6528,Slovakia,SK,Trnavský,,1367,1367
+Predmier,49.1986,18.5319,Slovakia,SK,Žilinský,,1364,1364
+Brzotín,48.6333,20.5000,Slovakia,SK,Košický,,1363,1363
+Michalová,48.7625,19.7797,Slovakia,SK,Banskobystrický,,1361,1361
+Žirany,48.3789,18.1744,Slovakia,SK,Nitriansky,,1361,1361
+Modrany,47.8222,18.3531,Slovakia,SK,Nitriansky,,1361,1361
+Istebné,49.2118,19.2215,Slovakia,SK,Žilinský,,1360,1360
+Oravský Podzámok,49.2624,19.3674,Slovakia,SK,Žilinský,,1359,1359
+Mokrance,48.5972,21.0167,Slovakia,SK,Košický,,1358,1358
+Nová Ves nad Žitavou,48.2833,18.3333,Slovakia,SK,Nitriansky,,1357,1357
+Hencovce,48.8722,21.7300,Slovakia,SK,Prešovský,,1355,1355
+Trebatice,48.5967,17.7528,Slovakia,SK,Trnavský,,1353,1353
+Budča,48.5739,19.0703,Slovakia,SK,Banskobystrický,,1351,1351
+Kostolné Kračany,47.9836,17.5767,Slovakia,SK,Trnavský,,1347,1347
+Rimavské Janovce,48.3414,20.0619,Slovakia,SK,Banskobystrický,,1347,1347
+Sverepec,49.0833,18.4083,Slovakia,SK,Nitriansky,,1345,1345
+Mošovce,48.9095,18.8876,Slovakia,SK,Žilinský,,1345,1345
+Sokoľany,48.6097,21.2303,Slovakia,SK,Košický,,1342,1342
+Kolačkov,49.2619,20.6286,Slovakia,SK,Prešovský,,1342,1342
+Kamenica nad Hronom,47.8317,18.7278,Slovakia,SK,Nitriansky,,1342,1342
+Farná,48.0058,18.5114,Slovakia,SK,Nitriansky,,1342,1342
+Lutila,48.6147,18.8411,Slovakia,SK,Banskobystrický,,1341,1341
+Liptovský Svätý Peter,49.0534,19.7345,Slovakia,SK,Žilinský,,1340,1340
+Svätoplukovo,48.2289,18.0539,Slovakia,SK,Nitriansky,,1340,1340
+Ohrady,47.9833,17.7000,Slovakia,SK,Trnavský,,1340,1340
+Podvysoká,49.4150,18.6700,Slovakia,SK,Žilinský,,1339,1339
+Košťany nad Turcom,49.0281,18.9050,Slovakia,SK,Žilinský,,1335,1335
+Rožkovany,49.1375,20.9917,Slovakia,SK,Prešovský,,1335,1335
+Veľký Grob,48.2531,17.4944,Slovakia,SK,Trnavský,,1335,1335
+Krnča,48.5500,18.2500,Slovakia,SK,Nitriansky,,1334,1334
+Predajná,48.8139,19.4625,Slovakia,SK,Banskobystrický,,1328,1328
+Mirkovce,48.9000,21.3333,Slovakia,SK,Prešovský,,1327,1327
+Tulčík,49.0889,21.3125,Slovakia,SK,Prešovský,,1325,1325
+Vištuk,48.3344,17.3969,Slovakia,SK,Bratislavský,,1324,1324
+Mojzesovo,48.1333,18.2375,Slovakia,SK,Nitriansky,,1323,1323
+Pribylina,49.1000,19.8000,Slovakia,SK,Žilinský,,1323,1323
+Tatranská Lomnica,49.1647,20.2822,Slovakia,SK,Prešovský,,1323,1323
+Pravenec,48.8553,18.6494,Slovakia,SK,Nitriansky,,1321,1321
+Vlkanová,48.6694,19.1472,Slovakia,SK,Banskobystrický,,1320,1320
+Brekov,48.9056,21.8361,Slovakia,SK,Prešovský,,1319,1319
+Kalinkovo,48.0592,17.2517,Slovakia,SK,Bratislavský,,1319,1319
+Vitanová,49.3550,19.7294,Slovakia,SK,Žilinský,,1319,1319
+Lubeník,48.6542,20.1958,Slovakia,SK,Banskobystrický,,1313,1313
+Pozdišovce,48.7286,21.8542,Slovakia,SK,Košický,,1312,1312
+Čičava,48.9237,21.6654,Slovakia,SK,Prešovský,,1311,1311
+Sokolovce,48.5361,17.8450,Slovakia,SK,Trnavský,,1310,1310
+Gemerská Horka,48.5333,20.3778,Slovakia,SK,Košický,,1309,1309
+Čáry,48.6500,17.1000,Slovakia,SK,Trnavský,,1309,1309
+Šíd,48.1833,19.8278,Slovakia,SK,Banskobystrický,,1306,1306
+Dolné Orešany,48.4389,17.4283,Slovakia,SK,Trnavský,,1304,1304
+Čirč,49.2783,20.9256,Slovakia,SK,Prešovský,,1295,1295
+Chminianska Nová Ves,49.0028,21.0819,Slovakia,SK,Prešovský,,1293,1293
+Terňa,49.1167,21.2333,Slovakia,SK,Prešovský,,1291,1291
+Nové Sady,48.4156,17.9814,Slovakia,SK,Nitriansky,,1289,1289
+Kolta,48.0167,18.4167,Slovakia,SK,Nitriansky,,1289,1289
+Košické Olšany,48.7317,21.3431,Slovakia,SK,Košický,,1285,1285
+Závažná Poruba,49.0539,19.6492,Slovakia,SK,Žilinský,,1284,1284
+Podbiel,49.3072,19.4867,Slovakia,SK,Žilinský,,1284,1284
+Veličná,49.2047,19.2464,Slovakia,SK,Žilinský,,1273,1273
+Šumiac,48.8500,20.1333,Slovakia,SK,Banskobystrický,,1272,1272
+Číčov,47.7667,17.7667,Slovakia,SK,Nitriansky,,1271,1271
+Spišský Hrušov,48.9444,20.7056,Slovakia,SK,Košický,,1268,1268
+Dojč,48.6778,17.2533,Slovakia,SK,Trnavský,,1266,1266
+Cigeľ,48.7119,18.6453,Slovakia,SK,Nitriansky,,1263,1263
+Žemberovce,48.2583,18.7373,Slovakia,SK,Nitriansky,,1261,1261
+Družstevná pri Hornáde,48.7950,21.2417,Slovakia,SK,Košický,,1259,1259
+Nižná Slaná,48.7250,20.4111,Slovakia,SK,Košický,,1255,1255
+Pohronský Ruskov,47.9833,18.6667,Slovakia,SK,Nitriansky,,1254,1254
+Sirk,48.6189,20.1006,Slovakia,SK,Banskobystrický,,1254,1254
+Želovce,48.1250,19.3556,Slovakia,SK,Banskobystrický,,1249,1249
+Veľké Dvorníky,48.0000,17.6500,Slovakia,SK,Trnavský,,1245,1245
+Žabokreky,49.0246,18.9244,Slovakia,SK,Žilinský,,1243,1243
+Výborná,49.2339,20.3969,Slovakia,SK,Prešovský,,1243,1243
+Udavské,48.9739,21.9656,Slovakia,SK,Prešovský,,1242,1242
+Liešťany,48.8248,18.4795,Slovakia,SK,Nitriansky,,1239,1239
+Trnavá Hora,48.5889,18.9528,Slovakia,SK,Banskobystrický,,1239,1239
+Trenčianske Jastrabie,48.8011,18.1117,Slovakia,SK,Nitriansky,,1237,1237
+Boťany,48.4500,22.1000,Slovakia,SK,Košický,,1237,1237
+Partizánska ľupča,49.0650,19.4364,Slovakia,SK,Žilinský,,1236,1236
+Bajč,47.9281,18.2058,Slovakia,SK,Nitriansky,,1234,1234
+Krivany,49.1700,20.9142,Slovakia,SK,Prešovský,,1233,1233
+Kračúnovce,49.0944,21.4875,Slovakia,SK,Prešovský,,1232,1232
+Nitrianska Blatnica,48.5528,17.9667,Slovakia,SK,Nitriansky,,1232,1232
+Hostie,48.4500,18.4375,Slovakia,SK,Nitriansky,,1232,1232
+Jurské,49.2000,20.5250,Slovakia,SK,Prešovský,,1230,1230
+Tekovská Breznica,48.3833,18.6167,Slovakia,SK,Banskobystrický,,1229,1229
+Muráň,48.7406,20.0467,Slovakia,SK,Banskobystrický,,1229,1229
+Vydrník,49.0011,20.4042,Slovakia,SK,Prešovský,,1226,1226
+Nána,47.8128,18.7028,Slovakia,SK,Nitriansky,,1223,1223
+Horný Bar,47.9472,17.4633,Slovakia,SK,Trnavský,,1222,1222
+Ruská Nová Ves,48.9833,21.3333,Slovakia,SK,Prešovský,,1221,1221
+Dolné Kočkovce,49.0933,18.3256,Slovakia,SK,Nitriansky,,1218,1218
+Sebechleby,48.2753,18.9531,Slovakia,SK,Banskobystrický,,1217,1217
+Hronec,48.7972,19.5806,Slovakia,SK,Banskobystrický,,1216,1216
+Kokšov-Bakša,48.6472,21.3250,Slovakia,SK,Košický,,1214,1214
+Mnichova Lehota,48.8340,18.0619,Slovakia,SK,Nitriansky,,1210,1210
+Buzica,48.5319,21.0758,Slovakia,SK,Košický,,1209,1209
+Lazy pod Makytou,49.2281,18.2142,Slovakia,SK,Nitriansky,,1208,1208
+Rohovce,47.9972,17.4083,Slovakia,SK,Trnavský,,1206,1206
+Vyšný Žipov,48.9856,21.5872,Slovakia,SK,Prešovský,,1205,1205
+Veselé,48.5469,17.7353,Slovakia,SK,Trnavský,,1204,1204
+Nitrianske Sučany,48.7304,18.4701,Slovakia,SK,Nitriansky,,1204,1204
+Tužina,48.8983,18.6125,Slovakia,SK,Nitriansky,,1204,1204
+Čechynce,48.2564,18.1603,Slovakia,SK,Nitriansky,,1203,1203
+Budimír,48.8000,21.3000,Slovakia,SK,Košický,,1202,1202
+Sokolce,47.8531,17.8272,Slovakia,SK,Nitriansky,,1202,1202
+Ráztočno,48.7694,18.7553,Slovakia,SK,Nitriansky,,1199,1199
+Vyhne,48.5045,18.8032,Slovakia,SK,Banskobystrický,,1198,1198
+Mýtna,48.4667,19.5500,Slovakia,SK,Banskobystrický,,1195,1195
+Hvozdnica,49.2100,18.4890,Slovakia,SK,Žilinský,,1194,1194
+Cejkov,48.4681,21.7622,Slovakia,SK,Košický,,1194,1194
+Brvnište,49.2144,18.4272,Slovakia,SK,Nitriansky,,1193,1193
+Svätý Anton,48.4220,18.9410,Slovakia,SK,Banskobystrický,,1192,1192
+Vyšná Šebastová,49.0142,21.3261,Slovakia,SK,Prešovský,,1191,1191
+Sokoľ,48.8133,21.2197,Slovakia,SK,Košický,,1188,1188
+Rajecká Lesná,49.0467,18.6419,Slovakia,SK,Žilinský,,1188,1188
+Jamník,48.9433,20.6625,Slovakia,SK,Prešovský,,1186,1186
+Lastomír,48.7056,21.9250,Slovakia,SK,Košický,,1185,1185
+Lastovce,48.5375,21.6264,Slovakia,SK,Košický,,1185,1185
+Šarišské Dravce,49.1750,20.8631,Slovakia,SK,Prešovský,,1182,1182
+Svederník,49.2628,18.6444,Slovakia,SK,Žilinský,,1180,1180
+Veľký Blh,48.4450,20.1172,Slovakia,SK,Banskobystrický,,1178,1178
+Žehňa,48.9167,21.3408,Slovakia,SK,Prešovský,,1177,1177
+Čalovec,47.8178,17.9844,Slovakia,SK,Nitriansky,,1177,1177
+Jasenie,48.8364,19.4600,Slovakia,SK,Banskobystrický,,1176,1176
+Liptovská Porúbka,49.0303,19.7344,Slovakia,SK,Žilinský,,1175,1175
+Kechnec,48.5542,21.2597,Slovakia,SK,Košický,,1174,1174
+Liptovská Štiavnica,49.0525,19.3572,Slovakia,SK,Žilinský,,1174,1174
+Dunajov,49.3606,18.8217,Slovakia,SK,Žilinský,,1173,1173
+Stankovany,49.1456,19.1708,Slovakia,SK,Žilinský,,1172,1172
+Povina,49.3103,18.8122,Slovakia,SK,Žilinský,,1171,1171
+Hajnáčka,48.2164,19.9526,Slovakia,SK,Banskobystrický,,1170,1170
+Dolné Obdokovce,48.3167,18.2167,Slovakia,SK,Nitriansky,,1169,1169
+Zemplínske Hradište,48.5833,21.7361,Slovakia,SK,Košický,,1166,1166
+Čakajovce,48.3667,18.0333,Slovakia,SK,Nitriansky,,1165,1165
+Čataj,48.2708,17.4764,Slovakia,SK,Bratislavský,,1165,1165
+Lukáčovce,48.3950,17.9392,Slovakia,SK,Nitriansky,,1164,1164
+Obid,47.7778,18.6458,Slovakia,SK,Nitriansky,,1164,1164
+Čilizská Radvaň,47.8331,17.6897,Slovakia,SK,Trnavský,,1162,1162
+Pobedim,48.6514,17.8028,Slovakia,SK,Nitriansky,,1158,1158
+Katlovce,48.5258,17.6100,Slovakia,SK,Trnavský,,1157,1157
+Beňuš,48.8292,19.7603,Slovakia,SK,Banskobystrický,,1157,1157
+Zvolenské Nemce,48.7625,19.1853,Slovakia,SK,Banskobystrický,,1156,1156
+Jasová,47.9894,18.3964,Slovakia,SK,Nitriansky,,1155,1155
+Bzovík,48.3222,19.0917,Slovakia,SK,Banskobystrický,,1149,1149
+Bátovce,48.2911,18.7450,Slovakia,SK,Nitriansky,,1148,1148
+Borša,48.3957,21.7075,Slovakia,SK,Košický,,1147,1147
+Kráľovce,48.8033,21.3300,Slovakia,SK,Košický,,1145,1145
+Fričovce,49.0167,20.9667,Slovakia,SK,Prešovský,,1144,1144
+Stará Kremnička,48.6018,18.8885,Slovakia,SK,Banskobystrický,,1143,1143
+Opoj,48.3000,17.6500,Slovakia,SK,Trnavský,,1139,1139
+Lenartov,49.3100,21.0208,Slovakia,SK,Prešovský,,1136,1136
+Vtáčkovce,48.8417,21.3792,Slovakia,SK,Košický,,1132,1132
+Vŕbnica,48.6772,21.8833,Slovakia,SK,Košický,,1132,1132
+Búč,47.8067,18.4431,Slovakia,SK,Nitriansky,,1128,1128
+Kurima,49.2269,21.4542,Slovakia,SK,Prešovský,,1127,1127
+Tureň,48.1911,17.3894,Slovakia,SK,Bratislavský,,1126,1126
+Malé Dvorníky,48.0111,17.6431,Slovakia,SK,Trnavský,,1126,1126
+Moča,47.7603,18.4094,Slovakia,SK,Nitriansky,,1122,1122
+Hažlín,49.3017,21.4186,Slovakia,SK,Prešovský,,1116,1116
+Šajdíkove Humence,48.6500,17.2667,Slovakia,SK,Trnavský,,1111,1111
+Lakšárska Nová Ves,48.5775,17.1850,Slovakia,SK,Trnavský,,1111,1111
+Jasenica,49.1797,18.4500,Slovakia,SK,Nitriansky,,1110,1110
+Machulince,48.4167,18.4333,Slovakia,SK,Nitriansky,,1108,1108
+Skároš,48.5883,21.3750,Slovakia,SK,Košický,,1106,1106
+Malý Horeš,48.4000,21.9500,Slovakia,SK,Košický,,1103,1103
+Krpeľany,49.1228,19.0822,Slovakia,SK,Žilinský,,1102,1102
+Bohdanovce,48.6564,21.4011,Slovakia,SK,Košický,,1100,1100
+Koš,48.7450,18.5789,Slovakia,SK,Nitriansky,,1100,1100
+Kráľov Brod,48.0603,17.8264,Slovakia,SK,Trnavský,,1097,1097
+Slovenské Nové Mesto,48.4008,21.6694,Slovakia,SK,Košický,,1096,1096
+Kľušov,49.2481,21.2581,Slovakia,SK,Prešovský,,1096,1096
+Baka,47.9056,17.5250,Slovakia,SK,Trnavský,,1096,1096
+Malachov,48.7100,19.0900,Slovakia,SK,Banskobystrický,,1095,1095
+Hrhov,48.6056,20.7500,Slovakia,SK,Košický,,1093,1093
+Podtureň,49.0542,19.6917,Slovakia,SK,Žilinský,,1090,1090
+Veľká Lehota,48.4617,18.5606,Slovakia,SK,Banskobystrický,,1090,1090
+Kľačno,48.9125,18.6578,Slovakia,SK,Nitriansky,,1089,1089
+Príbovce,48.9984,18.8816,Slovakia,SK,Žilinský,,1088,1088
+Dulova Ves,48.9528,21.3056,Slovakia,SK,Prešovský,,1088,1088
+Kľačany,48.3886,17.8736,Slovakia,SK,Trnavský,,1088,1088
+Mojš,49.2000,18.8167,Slovakia,SK,Žilinský,,1086,1086
+Čenkovce,48.1000,17.4333,Slovakia,SK,Trnavský,,1086,1086
+Ďurčiná,49.0622,18.6542,Slovakia,SK,Žilinský,,1085,1085
+Olcnava,48.9264,20.7536,Slovakia,SK,Košický,,1084,1084
+Hubová,49.1183,19.1886,Slovakia,SK,Žilinský,,1079,1079
+Horná Poruba,48.9411,18.3050,Slovakia,SK,Nitriansky,,1076,1076
+Čebovce,48.1803,19.2281,Slovakia,SK,Banskobystrický,,1076,1076
+Hrčeľ,48.5225,21.6881,Slovakia,SK,Košický,,1074,1074
+Petrova Ves,48.7208,17.1608,Slovakia,SK,Trnavský,,1074,1074
+Ratnovce,48.5581,17.8456,Slovakia,SK,Trnavský,,1073,1073
+Malé Trakany,48.4011,22.1014,Slovakia,SK,Košický,,1073,1073
+Demjata,49.1061,21.3144,Slovakia,SK,Prešovský,,1071,1071
+Pohranice,48.3314,18.1839,Slovakia,SK,Nitriansky,,1071,1071
+Liptovský Ján,49.0492,19.6769,Slovakia,SK,Žilinský,,1070,1070
+Veľké Orvište,48.6206,17.7900,Slovakia,SK,Trnavský,,1069,1069
+Hostice,48.2384,20.0659,Slovakia,SK,Banskobystrický,,1069,1069
+Tekovské Nemce,48.3558,18.5272,Slovakia,SK,Nitriansky,,1067,1067
+Zamarovce,48.9092,18.0511,Slovakia,SK,Nitriansky,,1063,1063
+Rakovec nad Ondavou,48.7667,21.7833,Slovakia,SK,Košický,,1063,1063
+Kálnica,48.7628,17.9311,Slovakia,SK,Nitriansky,,1063,1063
+Veľký Horeš,48.3833,21.9056,Slovakia,SK,Košický,,1062,1062
+Trávnica,48.1380,18.3370,Slovakia,SK,Nitriansky,,1059,1059
+Kamenný Most,47.8533,18.6542,Slovakia,SK,Nitriansky,,1058,1058
+Černík,48.1569,18.2219,Slovakia,SK,Nitriansky,,1057,1057
+Kráľovičove Kračany,47.9875,17.5542,Slovakia,SK,Trnavský,,1056,1056
+Ladomirová,49.3294,21.6247,Slovakia,SK,Prešovský,,1055,1055
+Dolná Strehová,48.2503,19.4883,Slovakia,SK,Banskobystrický,,1054,1054
+Malý Slavkov,49.1361,20.3889,Slovakia,SK,Prešovský,,1049,1049
+Moravany,48.7389,21.7833,Slovakia,SK,Košický,,1046,1046
+Sedlice,48.9192,21.1186,Slovakia,SK,Prešovský,,1044,1044
+Kunerad,49.0992,18.7106,Slovakia,SK,Žilinský,,1044,1044
+Petrovce nad Laborcom,48.8000,21.8833,Slovakia,SK,Košický,,1042,1042
+Hertník,49.2072,21.2383,Slovakia,SK,Prešovský,,1041,1041
+Hladovka,49.3667,19.7667,Slovakia,SK,Žilinský,,1041,1041
+Abrahám,48.2500,17.6167,Slovakia,SK,Trnavský,,1032,1032
+Nededza,49.2208,18.8333,Slovakia,SK,Žilinský,,1029,1029
+Smolník,48.7303,20.7400,Slovakia,SK,Košický,,1027,1027
+Jablonec,48.3328,17.4489,Slovakia,SK,Bratislavský,,1026,1026
+Divinka,49.2528,18.6972,Slovakia,SK,Žilinský,,1024,1024
+Jelšovce,48.3844,18.0592,Slovakia,SK,Nitriansky,,1022,1022
+Stožok,48.5308,19.3581,Slovakia,SK,Banskobystrický,,1021,1021
+Borovce,48.5767,17.7461,Slovakia,SK,Trnavský,,1020,1020
+Chmeľov,49.0719,21.4367,Slovakia,SK,Prešovský,,1019,1019
+Kružlov,49.3042,21.1333,Slovakia,SK,Prešovský,,1017,1017
+Liptovská Teplá,49.1016,19.4091,Slovakia,SK,Žilinský,,1015,1015
+Dubovany,48.5333,17.7333,Slovakia,SK,Trnavský,,1013,1013
+Chmeľnica,49.2953,20.7314,Slovakia,SK,Prešovský,,1013,1013
+Ludrová,49.0472,19.3326,Slovakia,SK,Žilinský,,1012,1012
+Stará Lesná,49.1417,20.3139,Slovakia,SK,Prešovský,,1012,1012
+Novosad,48.5333,21.7333,Slovakia,SK,Košický,,1010,1010
+Snežnica,49.2575,18.7925,Slovakia,SK,Žilinský,,1009,1009
+Volkovce,48.3389,18.4556,Slovakia,SK,Nitriansky,,1009,1009
+Nemčice,48.5500,18.1222,Slovakia,SK,Nitriansky,,1008,1008
+Záhradné,49.0833,21.2667,Slovakia,SK,Prešovský,,1007,1007
+Jablonov,49.0172,20.7189,Slovakia,SK,Prešovský,,1007,1007
+Prievaly,48.5567,17.3489,Slovakia,SK,Trnavský,,1006,1006
+Selec,48.7789,17.9915,Slovakia,SK,Nitriansky,,1006,1006
+Richvald,49.2764,21.1944,Slovakia,SK,Prešovský,,1003,1003
+Lodno,49.3345,18.8682,Slovakia,SK,Žilinský,,1001,1001
+Komárno,48.1167,18.3167,Slovakia,SK,Nitriansky,minor,,

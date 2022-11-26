@@ -1,0 +1,14 @@
+{
+    "generations": 100000,
+    "population": 100,
+    "crossover_prob": 0.5,
+    "mutation_prob": 0.5,
+    "tournament_k": 10,
+    "elitism": true,
+    "k_best": 100,
+    "selection": "roulettewheel",
+    "mut_change": 0.005,
+    "show_only_changes": true,
+    "iter_stop": 10000,
+    "same_parents": false
+}

@@ -1,0 +1,16 @@
+{
+  "csv_data_path": "./csv/sk.csv",
+  "n_rows": 100,
+  "random_pick_dataset": false,
+  "save_path": "./animations/sk_rank.html",
+  "choose_my_route": true,
+  "selected_places": [
+    "Banská Bystrica",
+    "Žilina",
+    "Nitra",
+    "Poprad",
+    "Piešťany",
+    "Hlohovec",
+    "Sokoľ"
+  ]
+}
